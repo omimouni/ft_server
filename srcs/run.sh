@@ -18,6 +18,7 @@ echo "\n\033[32m♻️  Cleaning up ...\033[0m"
 
 rm -rf mysql-apt-config_0.8.15-1_all.deb
 rm -rf /res
+rm -rf latest.zip
 echo "\033[32m🤔  Hmm,it's done\033[0m"
 
 bash
